@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-superheroes-logicjs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ejercicio de programación lógica con LogicJS",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "logicjs": "1.0.0"
+  }
+}
